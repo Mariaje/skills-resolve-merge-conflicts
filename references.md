@@ -1,3 +1,4 @@
+
 $ git status
 > # On branch branch-b
 > # You have unmerged paths.
@@ -9,3 +10,8 @@ $ git status
 > # both modified:     references.md
 > #
 > no changes added to commit (use "git add" and/or "git commit -a")
+
+# References
+
+* octocat 1 😈
+
